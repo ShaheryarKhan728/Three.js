@@ -13,3 +13,6 @@ To show the points on screen I made LineBasicMaterial and used LineSegments clas
 Then, I combine this material and geometry to make a line mesh and added it into the scene. And then used my 2 random funcitons defined above to set their random position on screen in x and y axis.
 Finally, I rendered the scene and after it gives the length of my point array to 0 to remove all the previous points from it and also clear the scene from previous line mesh.
 I added all this points generation and redering procedure in an infinite animate loop to show the scene endlessly.
+
+How to run:
+Go into the files and run file named 'rain.html' to view the scene on browser window.
